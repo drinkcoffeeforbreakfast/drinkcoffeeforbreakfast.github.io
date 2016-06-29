@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.grid-item {
+  width: 355px;
+  padding: 2.5px;
+  padding-left: 2.5px;
+  padding-top: 2.5px;
+  padding-right: 2.5px;
+  padding-bottom: 2.5px;
+  position: absolute;
+}
+/*.grid-item--width2 { width: 860px; }*/
+
+/*.grid-item{ height: auto;}*/
